@@ -2,6 +2,9 @@ Spunky-Slider
 =============
 
 Beautiful slider with customized html attributes (super easy to use)
+![slider](http://oi57.tinypic.com/2pquxqv.jpg)
+
+
 
 
 	<h3>Vertical Slider</h3>
